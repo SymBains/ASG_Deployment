@@ -1,3 +1,5 @@
+# Auto Scaling Group and Load Balancers Deployment
+
 **Step 1: Create a Launch Template**
 
 - Go to the EC2 Dashboard in the AWS Management Console.
